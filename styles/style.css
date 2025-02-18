@@ -57,7 +57,7 @@ body{
 }
 
 .texto-destacado{
-    color: blueviolet;
+    color: var(--color-secundario);
 }
 
 .box{
@@ -67,7 +67,7 @@ body{
 }
 
 .mensaje{
-    color: blueviolet;
+    color: var(--color-secundario);
 }
 
 .presentacion{
